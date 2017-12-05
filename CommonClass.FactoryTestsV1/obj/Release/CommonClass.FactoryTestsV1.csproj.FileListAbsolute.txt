@@ -1,0 +1,15 @@
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.FactoryTestsV1.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.FactoryTestsV1.pdb
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.Factory.pdb
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.Factory.xml
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Release\CommonClass.FactoryTestsV1.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Release\CommonClass.FactoryTestsV1.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Release\CommonClass.FactoryTestsV1.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Release\CommonClass.FactoryTestsV1.pdb
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.FactoryTestHelperAssembly.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Release\CommonClass.FactoryTestHelperAssembly.pdb

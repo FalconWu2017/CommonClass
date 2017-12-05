@@ -1,0 +1,9 @@
+C:\Documentation\develop\CommonClass\CommonClass.WebService\bin\Debug\CommonClass.WebService.dll
+C:\Documentation\develop\CommonClass\CommonClass.WebService\bin\Debug\CommonClass.WebService.pdb
+C:\Documentation\develop\CommonClass\CommonClass.WebService\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.WebService\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.WebService\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.WebService\obj\Debug\CommonClass.WebService.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.WebService\obj\Debug\CommonClass.WebService.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.WebService\obj\Debug\CommonClass.WebService.dll
+C:\Documentation\develop\CommonClass\CommonClass.WebService\obj\Debug\CommonClass.WebService.pdb

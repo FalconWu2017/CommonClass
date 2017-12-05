@@ -1,0 +1,14 @@
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\CommonClass.DbDataOperate.dll.config
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\CommonClass.DbDataOperate.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\CommonClass.DbDataOperate.pdb
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\EntityFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\EntityFramework.SqlServer.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\EntityFramework.xml
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\EntityFramework.SqlServer.xml
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Release\CommonClass.DbDataOperate.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Release\CommonClass.DbDataOperate.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Release\CommonClass.DbDataOperate.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Release\CommonClass.DbDataOperate.pdb
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Release\Autofac.xml

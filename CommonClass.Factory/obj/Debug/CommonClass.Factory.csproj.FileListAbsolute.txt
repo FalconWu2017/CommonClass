@@ -1,0 +1,8 @@
+C:\Documentation\develop\CommonClass\CommonClass.Factory\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.Factory\bin\Debug\CommonClass.Factory.pdb
+C:\Documentation\develop\CommonClass\CommonClass.Factory\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.Factory\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.Factory\obj\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.Factory\obj\Debug\CommonClass.Factory.pdb
+C:\Documentation\develop\CommonClass\CommonClass.Factory\obj\Debug\CommonClass.Factory.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.Factory\bin\Debug\CommonClass.Factory.xml

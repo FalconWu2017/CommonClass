@@ -1,0 +1,9 @@
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Debug\CommonClass.SqlExecuteString.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Debug\CommonClass.SqlExecuteString.pdb
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Debug\CommonClass.SqlExecuteString.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Debug\CommonClass.SqlExecuteString.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Debug\CommonClass.SqlExecuteString.pdb
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Debug\CommonClass.SqlExecuteString.csproj.CoreCompileInputs.cache

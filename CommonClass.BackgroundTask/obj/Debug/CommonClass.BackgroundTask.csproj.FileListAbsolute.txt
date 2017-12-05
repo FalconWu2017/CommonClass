@@ -1,0 +1,9 @@
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Debug\CommonClass.BackgroundTask.dll
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Debug\CommonClass.BackgroundTask.pdb
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Debug\CommonClass.BackgroundTask.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Debug\CommonClass.BackgroundTask.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Debug\CommonClass.BackgroundTask.dll
+C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Debug\CommonClass.BackgroundTask.pdb

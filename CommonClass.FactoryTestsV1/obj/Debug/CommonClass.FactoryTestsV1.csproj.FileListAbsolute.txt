@@ -1,0 +1,12 @@
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Debug\CommonClass.FactoryTestsV1.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Debug\CommonClass.FactoryTestsV1.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\CommonClass.FactoryTestsV1.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\CommonClass.FactoryTestsV1.pdb
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\CommonClass.Factory.pdb
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Debug\CommonClass.FactoryTestsV1.dll
+C:\Documentation\develop\CommonClass\CommonClass.FactoryTestsV1\obj\Debug\CommonClass.FactoryTestsV1.pdb

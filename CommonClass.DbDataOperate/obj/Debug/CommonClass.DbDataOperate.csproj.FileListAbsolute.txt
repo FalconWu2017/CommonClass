@@ -1,0 +1,14 @@
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\CommonClass.DbDataOperate.dll.config
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\CommonClass.DbDataOperate.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\CommonClass.DbDataOperate.pdb
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\EntityFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\EntityFramework.xml
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Debug\CommonClass.DbDataOperate.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Debug\CommonClass.DbDataOperate.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Debug\CommonClass.DbDataOperate.dll
+C:\Documentation\develop\CommonClass\CommonClass.DbDataOperate\obj\Debug\CommonClass.DbDataOperate.pdb

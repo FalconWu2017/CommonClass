@@ -1,0 +1,11 @@
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\CommonClass.ModelSql.dll.config
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\CommonClass.ModelSql.dll
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\CommonClass.ModelSql.pdb
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\EntityFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\EntityFramework.xml
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\obj\Debug\CommonClass.ModelSql.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\obj\Debug\CommonClass.ModelSql.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\obj\Debug\CommonClass.ModelSql.dll
+C:\Documentation\develop\CommonClass\CommonClass.ModelSql\obj\Debug\CommonClass.ModelSql.pdb

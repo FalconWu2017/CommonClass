@@ -1,0 +1,12 @@
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\CommonClass.JsonSettings.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\CommonClass.JsonSettings.pdb
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\CommonClass.Serializer.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\Newtonsoft.Json.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Debug\Newtonsoft.Json.xml
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Debug\CommonClass.JsonSettings.dll
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Debug\CommonClass.JsonSettings.pdb
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Debug\CommonClass.JsonSettings.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Debug\CommonClass.JsonSettings.csproj.CoreCompileInputs.cache

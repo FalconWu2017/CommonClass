@@ -1,0 +1,8 @@
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Release\CommonClass.SqlExecuteString.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Release\CommonClass.SqlExecuteString.pdb
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Release\CommonClass.SqlExecuteString.dll
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Release\CommonClass.SqlExecuteString.pdb
+C:\Documentation\develop\CommonClass\CommonClass.SqlExecuteString\obj\Release\CommonClass.SqlExecuteString.csprojResolveAssemblyReference.cache
