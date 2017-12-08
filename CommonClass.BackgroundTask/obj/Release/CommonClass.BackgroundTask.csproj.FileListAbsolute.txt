@@ -6,3 +6,12 @@ C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\bin\Release\Auto
 C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.csprojResolveAssemblyReference.cache
 C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.dll
 C:\Documentation\develop\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\bin\Release\CommonClass.BackgroundTask.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\bin\Release\CommonClass.BackgroundTask.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.BackgroundTask\obj\Release\CommonClass.BackgroundTask.pdb

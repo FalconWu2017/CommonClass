@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClass.FactoryTestsV1"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClass.FactoryTestHelperAssembly", "CommonClass.FactoryTestHelperAssembly\CommonClass.FactoryTestHelperAssembly.csproj", "{3C8D317C-F44E-4AF5-BC76-7D1884E1D459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClass.DataCache", "CommonClass.DataCache\CommonClass.DataCache.csproj", "{91BCB1FF-D49F-4D26-9A91-1B4BB7D4CC36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{3C8D317C-F44E-4AF5-BC76-7D1884E1D459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8D317C-F44E-4AF5-BC76-7D1884E1D459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C8D317C-F44E-4AF5-BC76-7D1884E1D459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BCB1FF-D49F-4D26-9A91-1B4BB7D4CC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BCB1FF-D49F-4D26-9A91-1B4BB7D4CC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BCB1FF-D49F-4D26-9A91-1B4BB7D4CC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BCB1FF-D49F-4D26-9A91-1B4BB7D4CC36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

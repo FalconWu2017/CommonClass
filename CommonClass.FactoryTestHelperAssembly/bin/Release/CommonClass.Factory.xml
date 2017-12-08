@@ -187,6 +187,12 @@
             类型注册接口，需要引入Autofac名字空间，然后自己实现注册方法
             </summary>
         </member>
+        <member name="M:CommonClass.Factory.IRegister.Register(Autofac.ContainerBuilder)">
+            <summary>
+            利用ContainerBuilder组件注册服务
+            </summary>
+            <param name="builder"></param>
+        </member>
         <member name="T:CommonClass.Factory.IRegisterBaseInterface">
             <summary>
             实现该接口表示类型要注册到其实现的基础接口。

@@ -1,0 +1,5 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.pdb

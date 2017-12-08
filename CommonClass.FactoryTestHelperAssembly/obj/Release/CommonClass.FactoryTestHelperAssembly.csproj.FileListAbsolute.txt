@@ -9,3 +9,14 @@ C:\Documentation\develop\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\R
 C:\Documentation\develop\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.csproj.CoreCompileInputs.cache
 C:\Documentation\develop\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.dll
 C:\Documentation\develop\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\CommonClass.FactoryTestHelperAssembly.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\CommonClass.FactoryTestHelperAssembly.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\CommonClass.Factory.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\CommonClass.Factory.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.FactoryTestHelperAssembly\obj\Release\CommonClass.FactoryTestHelperAssembly.pdb

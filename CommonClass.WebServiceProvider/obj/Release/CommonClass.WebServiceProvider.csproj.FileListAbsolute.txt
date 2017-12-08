@@ -1,0 +1,5 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.WebServiceProvider\bin\Release\CommonClass.WebServiceProvider.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.WebServiceProvider\bin\Release\CommonClass.WebServiceProvider.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.WebServiceProvider\obj\Release\CommonClass.WebServiceProvider.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.WebServiceProvider\obj\Release\CommonClass.WebServiceProvider.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.WebServiceProvider\obj\Release\CommonClass.WebServiceProvider.pdb

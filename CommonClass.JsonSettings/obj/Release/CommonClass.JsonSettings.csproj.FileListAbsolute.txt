@@ -9,3 +9,15 @@ C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\bin\Release\Newton
 C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.dll
 C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.pdb
 C:\Documentation\develop\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\CommonClass.JsonSettings.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\CommonClass.JsonSettings.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\CommonClass.Serializer.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\Newtonsoft.Json.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\bin\Release\Newtonsoft.Json.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.JsonSettings\obj\Release\CommonClass.JsonSettings.pdb
