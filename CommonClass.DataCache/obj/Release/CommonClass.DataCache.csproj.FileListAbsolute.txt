@@ -3,3 +3,9 @@ C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Relea
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.csproj.CoreCompileInputs.cache
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.dll
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\CommonClass.DataCache.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Release\CommonClass.DataCache.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\Autofac.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Release\CommonClass.Factory.xml

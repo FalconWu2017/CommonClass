@@ -1,0 +1,6 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Debug\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\bin\Debug\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Debug\CommonClass.DataCache.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Debug\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Debug\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCache\obj\Debug\CommonClass.DataCache.csprojResolveAssemblyReference.cache

@@ -28,8 +28,15 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\CommonClass.DataCache.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=4.6.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.6.0\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonClass.Factory, Version=1.1.0.7, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonClass.Factory.1.1.0.7\lib\net45\CommonClass.Factory.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -42,9 +49,14 @@
   <ItemGroup>
     <Compile Include="CacheItemExistsException.cs" />
     <Compile Include="CacheItemNotExistsException.cs" />
+    <Compile Include="CacheRegister.cs" />
+    <Compile Include="DataCacheFactory.cs" />
     <Compile Include="DefaultDataCache.cs" />
     <Compile Include="IDataCache.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

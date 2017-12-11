@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommonClass.DataCache</name>
+    </assembly>
+    <members>
+        <member name="T:CommonClass.DataCache.CacheItemExistsException">
+            <summary>
+            数据项已经存在异常
+            </summary>
+        </member>
+        <member name="T:CommonClass.DataCache.CacheRegister">
+            <summary>
+            CacheData IOC注册器
+            </summary>
+        </member>
+        <member name="M:CommonClass.DataCache.CacheRegister.Register(Autofac.ContainerBuilder)">
+            <summary>
+            注册IDataCache 及其实现
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="T:CommonClass.DataCache.DataCacheFactory">
+            <summary>
+            缓冲器创建工厂
+            </summary>
+        </member>
+        <member name="M:CommonClass.DataCache.DataCacheFactory.CreateCache">
+            <summary>
+            创建默认的缓冲器
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CommonClass.DataCache.DefaultDataCache">
+            <summary>
+            默认数据缓冲区对象，调用方必须维护缓冲区对象生命期，此对象不会自行维护。
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.DefaultDataCache.DefaultRemovetimeSpan">
+            <summary>
+            默认数据缓冲时间，如果时间到达将删除数据。
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.DefaultDataCache.List">
+            <summary>
+            用于保存数据的缓冲区
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.DefaultDataCache.UpdateMergeTimeWhenWatch">
+            <summary>
+            当观察数据时候更新数据更新时间，这将导致缓冲期延长。
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.DefaultDataCache.RemoveDataFunc">
+            <summary>
+            委托。判断数据项是否过期，如果过期将在下次观察时删除。
+            默认检测是否超过RemoveTimeSpan规定的过期时间
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.DefaultDataCache.AddDataFunc">
+            <summary>
+            添加数据委托。传入添加的数据key，观察数据时候调用，如果返回不为null，就将数据添加进缓冲区，默认返回null，
+            如果返回不为null，则调用AddData方法添加数据。
+            实现应根据传入的key书写数据获取方法。
+            <para>也可以调用AddData方法添加数据</para>
+            </summary>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.AddData(System.String,System.Object)">
+            <summary>
+            将数据添加到缓冲区。
+            </summary>
+            <param name="key">数据的键</param>
+            <param name="obj">数据对象，如果数据为null则不进行任何操作</param>
+            <returns>数据缓冲对象</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.Exists(System.String)">
+            <summary>
+            观察对象是否存在。方法首先会检查数据是否过期。如果过去则会删除。然后调用AddDataFunc委托。如果返回不为null，则调用AddData方法添加数据。
+            </summary>
+            <param name="key">数据的键</param>
+            <returns>如果存在返回True，否则False</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.Get(System.String)">
+            <summary>
+            从缓冲器过去数据并且判断数据是否过期，如果过期调用RemoveData方法删除数据。并且根据UpdateMergeTimeWhenWatch设置更新观察时间。
+            </summary>
+            <param name="key">要获取的数据键</param>
+            <returns>数据对象或null</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.MergeData(System.String,System.Object)">
+            <summary>
+            合并数据。如果数据存在则调用UpdateData方法升级数据，否则调用AddData添加数据。
+            </summary>
+            <param name="key"></param>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.RemoveData(System.String)">
+            <summary>
+            从缓冲区删除数据
+            </summary>
+            <param name="key">数据的键</param>
+            <returns></returns>
+        </member>
+        <member name="M:CommonClass.DataCache.DefaultDataCache.UpdateData(System.String,System.Object)">
+            <summary>
+            升级数据。如果数据不存在则抛出异常。除此之外还会更新观察时间
+            </summary>
+            <param name="key"></param>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CommonClass.DataCache.CacheItemEx">
+            <summary>
+            默认的数据缓冲器数据项
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.CacheItemEx.MargeDateTime">
+            <summary>
+            添加或更新时间
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.CacheItemEx.RemoveTimeSpan">
+            <summary>
+            数据生存时间
+            </summary>
+        </member>
+        <member name="T:CommonClass.DataCache.IDataCache">
+            <summary>
+            数据缓冲
+            </summary>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.AddData(System.String,System.Object)">
+            <summary>
+            添加数据进入缓冲区，如果数据存在抛出异常
+            </summary>
+            <param name="key">数据键</param>
+            <param name="obj">数据对象</param>
+            <returns>缓冲器对象</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.UpdateData(System.String,System.Object)">
+            <summary>
+            更新缓冲区对象，如果对象不存在则抛出异常
+            </summary>
+            <param name="key">数据键</param>
+            <param name="obj">数据对象</param>
+            <returns>缓冲器对象</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.MergeData(System.String,System.Object)">
+            <summary>
+            合并数据对象，如果存在则更新，如果不存在则添加。
+            </summary>
+            <param name="key">数据键</param>
+            <param name="obj">数据对象</param>
+            <returns>缓冲器对象</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.RemoveData(System.String)">
+            <summary>
+            删除缓冲区中的对象。不如存在则删除，不存在则不做任何操作
+            </summary>
+            <param name="key">数据键</param>
+            <returns>缓冲器对象</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.Exists(System.String)">
+            <summary>
+            数据键是否存在缓冲区中
+            </summary>
+            <param name="key"></param>
+            <returns>存在返回True，否则返回False</returns>
+        </member>
+        <member name="M:CommonClass.DataCache.IDataCache.Get(System.String)">
+            <summary>
+            取出缓冲区中的项
+            </summary>
+            <param name="key">数据的键</param>
+            <returns>取出的对象</returns>
+        </member>
+        <member name="P:CommonClass.DataCache.IDataCache.RemoveDataFunc">
+            <summary>
+            删除数据委托。缓冲器会按规则（具体规则取决于实现）调用委托，如果返回True则删除数据。
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.IDataCache.AddDataFunc">
+            <summary>
+            添加数据委托。缓冲区会按规则（具体规则取决于实现）调用该委托，如果委托返回不为null则将数据项添加入缓冲区
+            </summary>
+        </member>
+        <member name="T:CommonClass.DataCache.CacheItem">
+            <summary>
+            缓存的项
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.CacheItem.Key">
+            <summary>
+            缓存项的键
+            </summary>
+        </member>
+        <member name="P:CommonClass.DataCache.CacheItem.Data">
+            <summary>
+            缓存的数据
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.DataCacheTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.DataCacheTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.DataCache.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Release\CommonClass.DataCacheTests.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Release\CommonClass.DataCacheTests.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Release\CommonClass.DataCacheTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Release\CommonClass.DataCacheTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.Factory.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\Autofac.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\CommonClass.Factory.xml
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Release\Autofac.xml

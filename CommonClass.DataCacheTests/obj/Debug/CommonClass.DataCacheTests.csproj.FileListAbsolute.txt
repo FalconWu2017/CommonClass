@@ -1,0 +1,10 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\CommonClass.DataCacheTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\CommonClass.DataCacheTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\CommonClass.DataCache.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\CommonClass.DataCache.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Debug\CommonClass.DataCacheTests.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Debug\CommonClass.DataCacheTests.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Debug\CommonClass.DataCacheTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataCacheTests\obj\Debug\CommonClass.DataCacheTests.pdb
