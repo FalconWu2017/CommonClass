@@ -228,6 +228,11 @@
             注册为单例模式
             </summary>
         </member>
+        <member name="F:CommonClass.Factory.RegisterOption.PropertyDI">
+            <summary>
+            需要支持属性注入
+            </summary>
+        </member>
         <member name="F:CommonClass.Factory.RegisterOption.Default">
             <summary>
             默认。注册到基础接口
@@ -236,6 +241,11 @@
         <member name="F:CommonClass.Factory.RegisterOption.BaseSingle">
             <summary>
             注册到基础接口并实现单例
+            </summary>
+        </member>
+        <member name="F:CommonClass.Factory.RegisterOption.Standard">
+            <summary>
+            标准注入。类将注册到其实现的接口，并且为单例模式和支持属性注入
             </summary>
         </member>
     </members>

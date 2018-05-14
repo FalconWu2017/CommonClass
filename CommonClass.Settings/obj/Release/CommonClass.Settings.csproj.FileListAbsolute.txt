@@ -1,0 +1,6 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\bin\Release\CommonClass.Settings.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\bin\Release\CommonClass.Settings.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\obj\Release\CommonClass.Settings.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\obj\Release\CommonClass.Settings.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\obj\Release\CommonClass.Settings.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.Settings\obj\Release\CommonClass.Settings.pdb

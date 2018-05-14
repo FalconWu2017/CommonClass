@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.SqlClient;
 using System.Linq;
@@ -37,6 +38,20 @@ namespace CommonClass.ModelSql
             var sql = getSql(getProcuderName<TP>(),parms);
             return db.Database.SqlQuery<TR>(sql,parms.ToArray()).ToList();
         }
+        /// <summary>
+        /// 通过提供存储过程名，参数数组执行存储过程
+        /// </summary>
+        /// <typeparam name="TR">返回数据类型</typeparam>
+        /// <param name="db">用于查询的数据上下文</param>
+        /// <param name="procuderName">存储过程名</param>
+        /// <param name="data">存储过程参数</param>
+        /// <returns>数据字典</returns>
+        public static IEnumerable<TR> RunSql<TR>(this DbContext db,string procuderName,Hashtable data) {
+            if(string.IsNullOrEmpty(procuderName)) throw new ProcuderNotFoundException();
+            IEnumerable<SqlParameter> pList = getParams(data);
+            var sql = getSql(procuderName,pList);
+            return db.Database.SqlQuery<TR>(sql,pList.ToArray()).ToList();
+        }
 
         /// <summary>
         /// 生成执行字符串部分。
@@ -52,6 +67,15 @@ namespace CommonClass.ModelSql
                 }
             }
             return sb.ToString().TrimEnd(',');
+        }
+
+
+        private static IEnumerable<SqlParameter> getParams(Hashtable data) {
+            var result = new List<SqlParameter>();
+            foreach(var d in data.Keys) {
+                result.Add(new SqlParameter("@" + d.ToString(),data[d]));
+            }
+            return result;
         }
 
         /// <summary>

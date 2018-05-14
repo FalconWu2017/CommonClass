@@ -23,15 +23,19 @@ namespace CommonClass.Factory
         /// <summary>
         /// 注册到基础接口
         /// </summary>
-        BaseInterface = 1 << 0,
+        BaseInterface = 1,
         /// <summary>
         /// 注册到自身
         /// </summary>
-        Self = 1 << 1,
+        Self = 2,
         /// <summary>
         /// 注册为单例模式
         /// </summary>
-        Single = 1 << 2,
+        Single = 4,
+        /// <summary>
+        /// 需要支持属性注入
+        /// </summary>
+        PropertyDI = 8,
 
         /// <summary>
         /// 默认。注册到基础接口
@@ -41,5 +45,9 @@ namespace CommonClass.Factory
         /// 注册到基础接口并实现单例
         /// </summary>
         BaseSingle = BaseInterface | Single,
+        /// <summary>
+        /// 标准注入。类将注册到其实现的接口，并且为单例模式和支持属性注入
+        /// </summary>
+        Standard = BaseInterface | Single | PropertyDI,
     }
 }

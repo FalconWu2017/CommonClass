@@ -45,3 +45,4 @@ C:\Documentation\develop\CommonClass\CommonClass\CommonClass.ModelSqlTests\obj\R
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.ModelSqlTests\obj\Release\CommonClass.ModelSqlTests.csproj.CoreCompileInputs.cache
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.ModelSqlTests\obj\Release\CommonClass.ModelSqlTests.dll
 C:\Documentation\develop\CommonClass\CommonClass\CommonClass.ModelSqlTests\obj\Release\CommonClass.ModelSqlTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.ModelSqlTests\bin\Release\CommonClass.ModelSql.xml

@@ -3,6 +3,8 @@ using System.Data.Entity;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
+using System.Collections.Specialized;
+using System.Collections;
 
 namespace CommonClass.ModelSql.Tests
 {
@@ -24,12 +26,20 @@ namespace CommonClass.ModelSql.Tests
                 #region 执行效率测试
                 var sw = new Stopwatch();
                 sw.Start();
-                for(int x = 0;x < 100;x++) {
+                for(var x = 0;x < 100;x++) {
                     r = db.RunSql<PIn,POut>(pin).ToList();
                 }
                 sw.Stop();
                 Console.WriteLine(sw.ElapsedMilliseconds.ToString());
-                Assert.IsTrue(sw.ElapsedMilliseconds < 1 * 1000);
+                long timeSpan = 1 * 60 * 1000;
+                Assert.IsTrue(sw.ElapsedMilliseconds < timeSpan,$"执行时间大于{timeSpan.ToString()}");
+                #endregion
+
+                #region 通过传入参数数组进行测试
+                var pas = new Hashtable();
+                pas.Add("p1",1);
+                r = db.RunSql<POut>("PTest",pas).ToList();
+                Assert.AreEqual(2,r.First().pr);
                 #endregion
             }
             catch(Exception ex) {

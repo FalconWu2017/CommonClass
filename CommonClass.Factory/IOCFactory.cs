@@ -184,7 +184,7 @@ namespace CommonClass.Factory
         /// </summary>
         public static void RegisterByInterface(ContainerBuilder bui,Assembly ass) {
             Type[] types;
-            //注册实现IBaseRegister的类型。
+            //注册实现IRegisterBaseInterface的类型。
             types = getTypes<IRegisterBaseInterface>(ass);
             bui.RegisterTypes(types).AsImplementedInterfaces();
 
@@ -218,6 +218,10 @@ namespace CommonClass.Factory
                     //注册为单例模式
                     if(a.Option.HasFlag(RegisterOption.Single)) {
                         rb.SingleInstance();
+                    }
+                    //支持属性注入
+                    if(a.Option.HasFlag(RegisterOption.PropertyDI)) {
+                        rb.PropertiesAutowired();
                     }
                 }
             }

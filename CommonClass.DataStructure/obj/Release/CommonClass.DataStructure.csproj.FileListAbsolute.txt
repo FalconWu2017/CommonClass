@@ -1,0 +1,7 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\bin\Release\CommonClass.DataStructure.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\bin\Release\CommonClass.DataStructure.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\obj\Release\CommonClass.DataStructure.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\obj\Release\CommonClass.DataStructure.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\obj\Release\CommonClass.DataStructure.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\obj\Release\CommonClass.DataStructure.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructure\bin\Release\CommonClass.DataStructure.xml

@@ -55,6 +55,7 @@
     <Compile Include="Code\IgnoreAttribute.cs" />
     <Compile Include="Code\PrarmNameAttribute.cs" />
     <Compile Include="Code\ProcuderNameAttribute.cs" />
+    <Compile Include="Code\ProcuderNotFoundException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

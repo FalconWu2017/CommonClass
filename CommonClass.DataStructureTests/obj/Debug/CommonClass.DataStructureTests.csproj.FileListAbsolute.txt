@@ -1,0 +1,10 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\CommonClass.DataStructureTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\CommonClass.DataStructureTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\CommonClass.DataStructure.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\CommonClass.DataStructure.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\obj\Debug\CommonClass.DataStructureTests.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\obj\Debug\CommonClass.DataStructureTests.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\obj\Debug\CommonClass.DataStructureTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.DataStructureTests\obj\Debug\CommonClass.DataStructureTests.pdb

@@ -1,0 +1,11 @@
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\CommonClass.SettingsTests.dll.config
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\CommonClass.SettingsTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\CommonClass.SettingsTests.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\CommonClass.Settings.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\bin\Release\CommonClass.Settings.pdb
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\obj\Release\CommonClass.SettingsTests.csprojResolveAssemblyReference.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\obj\Release\CommonClass.SettingsTests.csproj.CoreCompileInputs.cache
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\obj\Release\CommonClass.SettingsTests.csproj.CopyComplete
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\obj\Release\CommonClass.SettingsTests.dll
+C:\Documentation\develop\CommonClass\CommonClass\CommonClass.SettingsTests\obj\Release\CommonClass.SettingsTests.pdb
